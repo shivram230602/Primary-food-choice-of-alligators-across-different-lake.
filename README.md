@@ -1,1 +1,1 @@
-# Primary-food-choice-of-alligators-across-different-lake.
+# A study was conducted to analyse the primary food choice of alligatorAcross different lakes. Using multinomial logistic regression, with “fish” set as reference category. The effect of predictor such as size, gender and lake of food choice was analysed. Initially all predictor were included in the model, but based on the significance of the coefficient, the gender variable was found to be insignificant and removed from the final model. 
